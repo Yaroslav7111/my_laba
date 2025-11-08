@@ -13,7 +13,7 @@ class Program
         {
             if (c == 'I' )
                 babyka++;
-            else if (c  "IV" )
+            else if (c  "U" )
                 babyka+=4;
             else if (c == 'V')
                 babyka+=10;
